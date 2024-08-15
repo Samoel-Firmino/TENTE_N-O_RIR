@@ -4,14 +4,15 @@ background-color:black;
 margin: 0px;
 }
 header {
-border-bottom: solid 2px rgb(red, green, blue);
+border-bottom: solid 2px green;
 padding:20px;
 font-size:32px;
-color:rgb(red, green, blue);
+color:yellow;
 }
 section{
-background-color: rgb(rgb(255, 255, 0), green, blue);
-
+background-color: yellow;
+padding-bottom: 80px;
+padding-top: 80px;
 
 
 }
