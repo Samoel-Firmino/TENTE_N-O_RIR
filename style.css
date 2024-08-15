@@ -4,8 +4,8 @@ background-color: blue ;
 margin: 0px;
 }
 header {
-    border: solid 2px rgb(red, green, blue)
+    border: solid 2px rgb(red, green, blue);
     padding: 20px;
 font-size: 32px;
-color: rgb(red, green, blue)
+color: rgb(red, green, blue);
 }
