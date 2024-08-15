@@ -1,10 +1,10 @@
 body{ 
 color: green;
 background-color: rgb(0, 0, 0) ;
-margin: 2px;
+margin: 0px;
 }
 header {
-    border: solid 2px rgb(red, green, blue);
+    border-bottom: solid 2px rgb(red, green, blue);
     padding: 20px;
 font-size: 32px;
 color: rgb(red, green, blue);
