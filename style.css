@@ -2,6 +2,7 @@ body{
 color: green;
 background-color:black;
 margin: 0px;
+font-family: "Kanit Static", sans-serif;
 }
 header {
 border-bottom: solid 2px green;
@@ -13,6 +14,6 @@ section{
 background-color: yellow;
 padding-bottom: 80px;
 padding-top: 80px;
-
-
+display: flex;
+justify-content: center;
 }
